@@ -55,7 +55,7 @@ Je transforme les données financières complexes en **outils décisionnels auto
 
 ## 📫 Me contacter
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davy-goupil](https://www.linkedin.com/in/dgoupil-dataanalyst/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgoupil-dataanalyst/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davygoupil@yahoo.fr)
 [![DoYouBuzz] : https://showroom.doyoubuzz.com/NhOgnixllQiKpuAwSChXUw/J8FyC2glkpxXIzj9R0tM
 ---
